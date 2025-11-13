@@ -1,0 +1,10 @@
+transformers==4.36.0
+peft==0.7.0
+trl==0.7.4
+datasets==2.16.0
+bitsandbytes==0.41.3
+accelerate==0.25.0
+evaluate==0.4.1
+sacrebleu==2.3.1
+torch>=2.0.0
+tqdm
